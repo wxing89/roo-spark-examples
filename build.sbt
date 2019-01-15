@@ -1,4 +1,4 @@
-name := "spark-kafka-example"
+name := "roo-spark-examples"
 
 version := "0.1"
 
